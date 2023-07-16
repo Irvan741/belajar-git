@@ -3,3 +3,4 @@ Tujuan NAMA PT
 1. Membuat PT
 2. Merekrut orang orang yang expert pada bidangnya
 3. Melakukan riset pasar
+4. menganalisa hasil riset pasar
